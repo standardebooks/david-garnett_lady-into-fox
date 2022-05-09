@@ -37,37 +37,48 @@
 		<meta property="term" refines="#subject-2">sh2010101570</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fantasy</meta>
+		<dc:description id="description">A newly-married young woman is suddenly transformed into a fox, to the consternation and enduring grief of her husband.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;A newly married couple are taking a leisurely walk through the woods in England when, without warning, the woman suddenly transforms into a fox. The grief-stricken husband does his best to look after his transformed wife after this astonishing change.&lt;/p&gt;
+ &lt;p&gt;That’s the unlikely premise of &lt;i&gt;Lady Into Fox&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/david-garnett"&gt;David Garnett&lt;/a&gt;, who was the son of reknown translator Constance Garnett. Other than the mysterious transformation of the woman, this short work is otherwise completely realistic, placing it in the category of contemporary fantasy or magic realism. Published in 1922, the book quickly attracted critical attention and praise. It won both the James Tait Black Memorial Prize and the Hawthornden Prize, and was included by the writer Rebecca West in a list of the “best imaginative productions” of the 1920s alongside Virginia Woolf’s &lt;i&gt;Orlando&lt;/i&gt;.&lt;/p&gt;
+ &lt;p&gt;&lt;i&gt;Lady Into Fox&lt;/i&gt; was turned into a ballet in 1939 by the choreographer Andrée Howard, with music based on piano pieces by Arthur Hoenegger. Performed by Ballet Rambert, it was apparently a success.&lt;/p&gt;
+ &lt;p&gt;In 1960, a French writer using the pseudonym “Vercours” wrote a novel titled &lt;i&gt;Sylva&lt;/i&gt; directly inspired by Garnett’s novel, in which the reverse transformation occurs: a fox on the run from a hunt is transformed into a naked young woman, who is taken in and cared for by the owner of a nearby manor. This novel, translated into English, was nominated for Best Novel in the Hugo Awards presented by the World Science Fiction Convention in 1963.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10337</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/ladyintofox0000garn</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lady_Into_Fox</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/david-garnett_lady-into-fox</meta>
 		<dc:creator id="author">David Garnett</dc:creator>
 		<meta property="file-as" refines="#author">Garnett, David</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/David_Garnett</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79096715</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Bruno Liljefors</dc:contributor>
+		<meta property="file-as" refines="#artist">Liljefors, Bruno</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Bruno_Liljefors</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81145857</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Project Gutenberg Beginners Projects</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Project Gutenberg Beginners Projects</meta>
+		<meta property="se:url.homepage" refines="#transcriber-2">https://www.gutenberg.org</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Mary Ann Fink</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Fink, Mary Ann</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://thegriggs.org/david/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>

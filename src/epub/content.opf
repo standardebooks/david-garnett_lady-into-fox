@@ -39,10 +39,10 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta id="collection-1" property="belongs-to-collection">James Tait Black Memorial Fiction Prize Winners</meta>
-		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
 		<meta id="collection-2" property="belongs-to-collection">Hawthornden Prize Winners</meta>
-		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="collection-type" refines="#collection-2">series</meta>
 		<meta property="group-position" refines="#collection-2">5</meta>
 		<dc:description id="description">A newly-married young woman is suddenly transformed into a fox, to the consternation and enduring grief of her husband.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">

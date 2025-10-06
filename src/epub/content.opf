@@ -45,9 +45,9 @@
 		<meta id="collection-2" property="belongs-to-collection">Hawthornden Prize Winners</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
 		<meta property="group-position" refines="#collection-2">5</meta>
-		<dc:description id="description">A newly-married young woman is suddenly transformed into a fox, to the consternation and enduring grief of her husband.</dc:description>
+		<dc:description id="description">A newly married young woman is suddenly transformed into a fox, to the consternation and enduring grief of her husband.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A newly-married couple are taking a leisurely walk through the woods in England when, without warning, the woman suddenly transforms into a fox. The grief-stricken husband does his best to look after his transformed wife after this astonishing change.&lt;/p&gt;
+			&lt;p&gt;A newly married couple are taking a leisurely walk through the woods in England when, without warning, the woman suddenly transforms into a fox. The grief-stricken husband does his best to look after his transformed wife after this astonishing change.&lt;/p&gt;
 			&lt;p&gt;That’s the unlikely premise of &lt;i&gt;Lady Into Fox&lt;/i&gt;. Other than the mysterious transformation of the woman, this short work is otherwise completely realistic, placing it in the category of contemporary fantasy or magic realism.&lt;/p&gt;
 			&lt;p&gt;Published in 1922, the book quickly attracted critical attention and praise. It won both the &lt;a href="https://standardebooks.org/collections/james-tait-black-memorial-fiction-prize-winners"&gt;James Tait Black Memorial Prize&lt;/a&gt; and the &lt;a href="https://standardebooks.org/collections/hawthornden-prize-winners"&gt;Hawthornden Prize&lt;/a&gt;, and was included by the writer Rebecca West in a list of the “best imaginative productions” of the 1920s alongside &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf’s&lt;/a&gt; &lt;i&gt;Orlando&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Lady Into Fox&lt;/i&gt; was turned into a ballet in 1939 by the choreographer Andrée Howard, with music based on piano pieces by Arthur Hoenegger. Performed by Ballet Rambert, it was apparently a success.&lt;/p&gt;

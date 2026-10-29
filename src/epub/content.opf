@@ -71,6 +71,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">Bruno Liljefors</dc:contributor>
 		<meta property="file-as" refines="#artist">Liljefors, Bruno</meta>
+		<meta property="schema:alternateName" refines="#artist">Bruno Andreas Liljefors</meta>
 		<link href="https://en.wikipedia.org/wiki/Bruno_Liljefors" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81145857.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>

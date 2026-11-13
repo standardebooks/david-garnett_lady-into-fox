@@ -78,17 +78,13 @@
 		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Project Gutenberg Beginners Projects</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Project Gutenberg Beginners Projects</meta>
-		<link href="https://www.gutenberg.org/" refines="#transcriber-2" rel="schema:url"/>
+		<dc:contributor id="transcriber-2">Mary Ann Fink</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Fink, Mary Ann</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Mary Ann Fink</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Fink, Mary Ann</meta>
+		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
+		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-4">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders</meta>
-		<link href="https://www.pgdp.net/" refines="#transcriber-4" rel="schema:url"/>
-		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">David Grigg</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
 		<link href="https://thegriggs.org/david/" refines="#producer-1" rel="schema:url"/>
